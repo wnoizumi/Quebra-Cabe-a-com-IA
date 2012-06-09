@@ -1,0 +1,13 @@
+﻿Quebra cabeça com IA README
+
+Quebra cabeça com IA é resultado de um trabalho de faculdade.
+O objetivo do trabalho foi implementar a resolução do problema do quebra cabeça, por meio de algoritmos de inteligência artificial.
+Os algoritmos utilizados foram:
+
+Busca em Profundidade
+Busca em Largura
+Buscar A*
+
+Foi utilizada a plataforma Java 1.7 com a IDE Netbeans 7.0.1. O idioma do projeto é português brasileiro.
+
+Creative Commons - Fair Use
